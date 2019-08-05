@@ -1,0 +1,37 @@
+body{
+   background: #d3d3d3;/*背景色*/
+}
+h2 {
+    font-size: 45px;
+  margin: 16px 0 0px;
+/*    line-height: 48px;*/
+}
+h3 {
+    font-size: 14px;
+  margin: 30px 0 0px;
+}
+h4 {
+    font-size: 12px;
+  margin: 6px 0 0px;
+    
+}
+p {
+    font-size: 11px;
+}
+
+.box3 {
+    padding: 0.1em 2em;
+    margin: 1em auto;
+    color: #808080;
+    background: #ffffff;/*背景色*/
+  max-width: 1000px
+}
+.box3 p {
+    margin: 0 0 6px;
+    padding: 0;
+}
+
+ul, ol {
+    font-size: 14px;
+    line-height: 24px;
+}
