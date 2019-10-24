@@ -1,0 +1,48 @@
+body {
+
+}
+
+h2 {
+  font-size: 26px;
+  margin: 16px 0px 16px 0px;
+/*  padding: 0px 0px 0px 10px;*/
+}
+
+h3 {
+/*  background: #d3d3d3;*/
+  font-size: 18px;
+  margin: 20px 0px 10px 0px;
+/*  padding: 0px 0px 0px 10px;*/
+}
+
+h4 {
+  background: #d3d3d3;
+  font-size: 12px;
+  line-height: 26px;
+  margin: 20px 0px 10px 0px;
+  padding: 0px 0px 0px 10px;
+}
+
+p {
+  font-size: 11px;
+}
+
+.box3 {
+  padding: 0.1em 1em;
+  margin: 1em auto;
+  color: #808080;
+  background: #ffffff;
+  /*背景色*/
+  max-width: 1000px
+}
+
+.box3 p {
+  margin: 0 0 6px;
+  padding: 0;
+}
+
+ul,
+ol {
+  font-size: 11px;
+  line-height: 16px;
+}
